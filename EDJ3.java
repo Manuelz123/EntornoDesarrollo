@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	int opcion=0;
 	do {
 		
-	System.out.println("primer uso de la calculadora potencia, indique el valor de a");
+	System.out.println("primer uso de la calculadora potencia, indique el valor de a ");
 	int a = teclado.nextInt();
 	System.out.println("ingrese el valor de b");
 	int b = teclado.nextInt();
